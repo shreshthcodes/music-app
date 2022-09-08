@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Courier New", Courier, monospace;
+  background: linear-gradient(89deg, #a5d0f3 0%, beige 100%); /* w3c */
+}
+@font-face {
+  font-family: aberetoFont;
+  src: url(./assets/Aboreto.ttf);
+}
+button {
+  cursor: pointer;
+}
+.fonty{
+  font-family: aberetoFont;
+}
